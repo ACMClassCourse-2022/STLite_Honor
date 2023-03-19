@@ -1,0 +1,9 @@
+Test 1: Testing push_front() & push_back() and check number of live objects...Passed
+Test 2: Testing pop_front() & pop_back() and check number of live objects...Passed
+Test 3: Testing insert() and check number of live objects...Passed
+Test 4: Testing erase() and check number of live objects...Passed
+Test 5: Testing sort() and check number of live objects...Passed
+Test 6: Testing merge() and check number of live objects...Passed
+Test 7: Testing reverses() and check number of live objects...Passed
+Test 8: Testing unique() and check number of live objects...Passed
+Congratulations, you have passed all tests!

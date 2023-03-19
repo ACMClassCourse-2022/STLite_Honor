@@ -1,0 +1,8 @@
+Test 1: Push and pop testing...                                  PASSED
+Test 2: Iterator testing...                                      PASSED
+Test 3: Insert and erase testing...                              PASSED
+Test 4: Size and clear testing...                                PASSED
+Test 5: Sort testing...                                          PASSED
+Test 6: Unique testing...                                        PASSED
+Test 7: Merge testing...                                         PASSED
+Test 8: Reverse testing...                                       PASSED

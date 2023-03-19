@@ -1,0 +1,18 @@
+Test 1: Testing default & copy constructors and destructor...Passed
+Test 2: Testing operator= ...Passed
+Test 3: Testing push_front & push_back...Passed
+Test 4: Testing pop_front & pop_back...Passed
+Test 5: Testing iterator operations...Passed
+Test 6: Testing class-bint...Passed
+Test 7: Testing class-integer...Passed
+Test 8: Testing class-Matrix...Passed
+Test 9: Testing front() & back()...Passed
+Test 10: Testing information of capacity...Passed
+Test 11: Testing insert()...Passed
+Test 12: Testing erase()...Passed
+Test 13: Testing exception throw...Passed
+Test 14: Testing merge()...Passed
+Test 15: Testing reverse()...Passed
+Test 16: Testing sort()...Passed
+Test 17: Testing unique()...Passed
+Congratulations, you have passed all tests!
